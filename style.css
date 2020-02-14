@@ -1,0 +1,82 @@
+a {
+text-decoration: none;
+color: black;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color:black
+}
+ a:visited{
+     color: black;
+ }
+#signinblue{
+    color: white;
+background-color: blue;
+}
+#search{
+    background-clip: padding-box;
+
+}
+
+#mainbody{
+    background-color: lightgrey;
+}
+#search{
+display: flex;
+align-items: center;
+justify-content: center;
+display: inline;
+display: -webkit-inline-box;
+}
+#searchbox{
+
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 12px;
+    width: 600px;
+}
+
+body{
+    background-color:white ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.nigeria{
+    border:1px solid #ccc ; color: gray;
+    padding: 10px;
+    width: 100%;
+}
+.mainfooter {
+    border:1px #ccc ; color: rgb(11, 236, 150);
+    padding: 10px;
+    width: 100%;
+
+}
+
+
+.footer {
+    float: left;
+}
+.footer1 {
+float: right;
+}
+.box2 {
+    float: right;
+    margin: 30px 10;
+}
+
+.container {
+    border: 100% solid; color:#ccc;
+    text-align: center;
+
+}
+.container1 {
+text-align: center;
+}
+
+.lineheight {
+    line-height:0.5;
+}
